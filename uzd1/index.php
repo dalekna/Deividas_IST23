@@ -26,6 +26,6 @@ function funkcija($n) {
 }
 $number = 151; 
 $iterations = funkcija($number);
-echo "<br>iteracijų kiekis: " . $iterations;
+echo "<br>iteracijų kikybe: " . $iterations;
 echo "<br>maximalus sakičius: " . $max;
 ?>
